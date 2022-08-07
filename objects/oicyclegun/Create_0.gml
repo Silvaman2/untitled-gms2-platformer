@@ -1,0 +1,21 @@
+image_speed = 0;
+fireRate = [0, 6, 55];
+recoil = [0, 4, 15];
+minShootDist = [2,10];
+hsp = 0;
+vsp = 0;
+grv = 0.5;
+rotate[1] = 20;
+BspreadMin = [-2, 0];
+BspreadMax = [2, 0];
+bulletCount = 1;
+state = "dropped";
+sfx = noone;
+bullet = [Oicycle1, Oicycle2];
+flash = Hit;
+bulletPlacement[0] = 3;
+bulletPlacement[1] = -5;
+mode = 0;
+
+damage = 8;
+knockback = 7;

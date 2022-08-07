@@ -1,0 +1,11 @@
+grv = 0.5;
+hsp = 2;
+facing = 1;
+vsp = grv;
+walksp[1] = 2;
+walksp[0] = walksp[1];
+hp[1] = 40;
+hp[0] = hp[1];
+knockback[1] = 8;
+flash = [0, 5, noone];
+freeze = [0, 30, 0];

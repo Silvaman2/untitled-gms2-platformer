@@ -1,0 +1,2 @@
+Gun();
+GunModes(2);
